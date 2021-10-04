@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = victor.bourgouin@hotmail.fr
+	name = Victor Bourgouin
